@@ -15,4 +15,5 @@
  
  * Dosa Batter
 
- * 1 egg and karam
+ * 1/2 egg and karam
+
