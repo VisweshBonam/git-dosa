@@ -12,7 +12,8 @@
  * Erra add karam
 
 # Egg Dosa
+ 
+ * Dosa Batter
 
-* Dosa Batter
+ * 1/2 egg and karam
 
-* 2 eggs, oil, karam
